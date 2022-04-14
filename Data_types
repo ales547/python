@@ -1,0 +1,7 @@
+Integer    int   Whole numbers: 3, 46, -4
+Floating   point float 3.65, -9.12
+String     str   "Hello world!"
+Dictionary dict  "key-value" pairs: {"NickName":"Glowe", 'name':'Olha'}
+Tuple      tup   Ordered immutable sequence of objects ("hello", 123, 0.6)
+Set        set   Collection of unique objects ("hello", 123, 0.6)
+Boolean    bool  True, False
